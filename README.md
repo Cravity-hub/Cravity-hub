@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BOLU
+67- 👋 Hi, I’m BOLUWATIFE
 - 👀 I’m interested in Data Science, Cloud computing and MLOps
 - 🌱 I’m currently learning Data Analytics via Google
 - 💞️ I’m looking to collaborate on projects that'll broaden my skills in these areas
